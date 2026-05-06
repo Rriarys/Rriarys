@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Rriarys 👋
 
-<!--
-**Rriarys/Rriarys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer & Linux Enthusiast
+I build resilient distributed systems and explore the depths of the .NET ecosystem
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-376331?style=for-the-badge&logo=fsharp&logoColor=white)
+
+**Infrastructure & Databases**
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 🏗 Featured Projects
+
+#### [SlaveDriver](https://github.com/Rriarys/slave-driver-experiment)
+An experimental project focused on distributed database architecture and high availability
+- **Current:** PostgreSQL master-slave cluster with automated health checks and data synchronization
+- **Roadmap:** Implementing Round-Robin load balancing and graceful system degradation patterns
+- **Tools:** .NET, Docker Compose, Bash scripting
+
+#### [MathGame](https://github.com/Rriarys/MathGame)
+A console-based educational application for practicing mental math, focusing on C# logic and clean CLI interactions
+
+### 🎯 Learning Roadmap
+I'm currently using **GitHub Copilot** as a mentor to deep-dive into:
+- Distributed Systems: Kafka, Cassandra, MongoDB
+- Observability: Prometheus, ElasticSearch
+- Performance: Exploring F# for high-performance computing modules
+
+### 📊 GitHub Stats
+![Rriarys's GitHub stats](https://github-readme-stats.vercel.app/api?username=rriarys&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rriarys&layout=compact&theme=dracula)
+
+---
+*"Simplicity is the soul of efficiency"*
