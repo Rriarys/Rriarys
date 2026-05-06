@@ -38,8 +38,8 @@ I'm currently using **GitHub Copilot** as a mentor to deep-dive into:
 - Performance: Exploring F# for high-performance computing modules
 
 ### 📊 GitHub Stats
-![Rriarys's GitHub stats](https://github-readme-stats.vercel.app/api?username=rriarys&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rriarys&layout=compact&theme=dracula)
+![GitHub Stars](https://img.shields.io/github/stars/Rriarys?style=for-the-badge)
+![Top language — MathGame](https://img.shields.io/github/languages/top/Rriarys/MathGame?style=for-the-badge)
 
 ---
 *"Simplicity is the soul of efficiency"*
