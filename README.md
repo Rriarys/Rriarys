@@ -1,6 +1,7 @@
 # Hi there, I'm Rriarys 👋
 
 Backend Developer & Linux Enthusiast
+
 I build resilient distributed systems and explore the depths of the .NET ecosystem
 
 ### 🛠 Tech Stack
