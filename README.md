@@ -21,23 +21,6 @@ I build resilient distributed systems and explore the depths of the .NET ecosyst
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### 🏗 Featured Projects
-
-#### [SlaveDriver](https://github.com/Rriarys/slave-driver-experiment)
-An experimental project focused on distributed database architecture and high availability
-- **Current:** PostgreSQL master-slave cluster with automated health checks and data synchronization
-- **Roadmap:** Implementing Round-Robin load balancing and graceful system degradation patterns
-- **Tools:** .NET, Docker Compose, Bash scripting
-
-#### [MathGame](https://github.com/Rriarys/MathGame)
-A console-based educational application for practicing mental math, focusing on C# logic and clean CLI interactions
-
-### 🎯 Learning Roadmap
-I'm currently using **GitHub Copilot** as a mentor to deep-dive into:
-- Distributed Systems: Kafka, Cassandra, MongoDB
-- Observability: Prometheus, ElasticSearch
-- Performance: Exploring F# for high-performance computing modules
-
 ### 📊 GitHub Stats
 ![GitHub Stars](https://img.shields.io/github/stars/Rriarys?style=for-the-badge)
 ![Top language — MathGame](https://img.shields.io/github/languages/top/Rriarys/MathGame?style=for-the-badge)
