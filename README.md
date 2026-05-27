@@ -20,7 +20,10 @@ I build resilient distributed systems and explore the depths of the .NET ecosyst
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 Coding Profiles & Stats
+
+[![Codewars](https://www.codewars.com/users/OPERRI/badges/large)](https://www.codewars.com/users/OPERRI)
+
 ![GitHub Stars](https://img.shields.io/github/stars/Rriarys?style=for-the-badge)
 ![Top language — MathGame](https://img.shields.io/github/languages/top/Rriarys/MathGame?style=for-the-badge)
 
