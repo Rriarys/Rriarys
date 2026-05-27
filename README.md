@@ -3,7 +3,7 @@
 Backend Developer & Linux Enthusiast
 I build resilient distributed systems and explore the depths of the .NET ecosystem
 
-### 🛠 Tech Stack
+### 🚀 Tech Stack
 
 **Languages & Frameworks**
 
