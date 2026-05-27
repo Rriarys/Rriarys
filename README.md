@@ -11,7 +11,6 @@ I build resilient distributed systems and explore the depths of the .NET ecosyst
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![F#](https://img.shields.io/badge/F%23-376331?style=for-the-badge&logo=fsharp&logoColor=white)
 
 **Infrastructure & Databases**
 
