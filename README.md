@@ -25,4 +25,4 @@ I build resilient distributed systems and explore the depths of the .NET ecosyst
 ![Top language — MathGame](https://img.shields.io/github/languages/top/Rriarys/MathGame?style=for-the-badge&cache=1)
 
 ---
-[![Codewars](https://www.codewars.com/users/RRIARYS/badges/small)](https://www.codewars.com/users/OPERRI)
+[![Codewars](https://www.codewars.com/users/RRIARYS/badges/small)](https://www.codewars.com/users/RRIARYS)
